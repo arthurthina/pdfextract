@@ -5,3 +5,6 @@ pngfile <- pdf_convert('https://ocw.mit.edu/courses/sloan-school-of-management/1
 
 text <- ocr(pngfile)
 cat(text)
+
+
+#add new
